@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 🎓 I graduated from the <b>University of California, Santa Cruz</b> with a bachelor's degree in <b>Computer Science</b><br>
 🌱 I'm passionate about the intersection of design and computation and interested in the areas of full-stack development, UI/UX, and AI
 
+<br>
+
 ### Languages and Tools
 
 <div>
@@ -35,6 +37,8 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" title="VisualStudio"  alt="VisualStudio" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma"  alt="Figma" width="40" height="40"/>&nbsp;
 </div>
+
+<br>
 
 ### Let's Connect!
 <a href="https://neeharavula.github.io/">

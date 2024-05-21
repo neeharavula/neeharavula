@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Neeha! 👋
 
 <!--
 **neeharavula/neeharavula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- ✈️ I'm currently an <b>Autonomy Software Developer</b> at <b>General Atomics Aeronautical Systems</b> in San Diego, CA
+- 🎓 I graduated from the <b>University of California, Santa Cruz</b> with a bachelor's degree in <b>Computer Science</b>
+- 💻 I'm passionate about the intersection of design and computation and interested in the areas of full-stack development, UI/UX, and AI
+
+Check out my portfolio to learn more about me and my work! <br><br>
+[<kbd> <br> PORTFOLIO <br> </kbd>](https://neeharavula.github.io/)&nbsp;&nbsp;
+[<kbd> <br> LINKEDIN <br> </kbd>](https://www.linkedin.com/in/neeharavula/)&nbsp;&nbsp;
+[<kbd> <br> EMAIL <br> </kbd>](mailto:ravulaneeha@gmail.com)&nbsp;&nbsp;
+<br>

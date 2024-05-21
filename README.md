@@ -17,11 +17,9 @@ Here are some ideas to get you started:
 
 ### About Me
 
-- ✈️ I'm currently an <b>Autonomy Software Developer</b> at <b>General Atomics Aeronautical Systems</b> in San Diego, CA
-- 🎓 I graduated from the <b>University of California, Santa Cruz</b> with a bachelor's degree in <b>Computer Science</b>
-- 🌱 I'm passionate about the intersection of design and computation and interested in the areas of full-stack development, UI/UX, and AI
-
-<br>
+✈️ I'm currently an <b>Autonomy Software Developer</b> at <b>General Atomics Aeronautical Systems</b> in San Diego, CA<br>
+🎓 I graduated from the <b>University of California, Santa Cruz</b> with a bachelor's degree in <b>Computer Science</b><br>
+🌱 I'm passionate about the intersection of design and computation and interested in the areas of full-stack development, UI/UX, and AI
 
 ### Languages and Tools
 
@@ -37,8 +35,6 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" title="VisualStudio"  alt="VisualStudio" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma"  alt="Figma" width="40" height="40"/>&nbsp;
 </div>
-
-<br>
 
 ### Let's Connect!
 <a href="https://neeharavula.github.io/">

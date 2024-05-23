@@ -2,7 +2,7 @@
 
 ### About Me
 
-✈️ I'm currently an <b>Autonomy Software Developer</b> at <b>General Atomics Aeronautical Systems</b> in San Diego, CA<br>
+✈️ I currently work as an <b>Autonomy Software Developer</b> at <b>General Atomics Aeronautical Systems</b> in San Diego, CA<br>
 🎓 I graduated from the <b>University of California, Santa Cruz</b> with a bachelor's degree in <b>Computer Science</b><br>
 🌱 I'm passionate about the intersection of design and computation and interested in the areas of full-stack development, UI/UX, and AI
 

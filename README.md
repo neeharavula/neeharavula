@@ -5,7 +5,7 @@
 ✈️ I currently work as an <b>Autonomy Software Developer</b> at <b>General Atomics Aeronautical Systems</b> in San Diego, CA<br>
 🎓 I graduated from the <b>University of California, Santa Cruz</b> with a bachelor's degree in <b>Computer Science</b><br>
 🌱 I'm passionate about the intersection of design and computation and interested in the areas of full-stack development, UI/UX, and AI<br>
-📷 In my free time, I enjoy film and digital photography, traveling, and going to concerts!
+📷 In my free time, I enjoy photography and videography, traveling, and going to concerts!
 
 ### Languages and Tools
 
@@ -33,6 +33,9 @@
 </a>
 <a href="mailto:ravulaneeha@gmail.com">
     <img src="https://img.shields.io/badge/email-717877?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://www.instagram.com/neehasroll/">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
 <br>

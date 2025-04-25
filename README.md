@@ -25,17 +25,10 @@
 
 
 ### Let's Connect!
-<a href="https://neeharavula.github.io/">
-    <img alt="Portfolio" src="https://img.shields.io/badge/PORTFOLIO-779D7A?style=for-the-badge">
-</a>
-<a href="https://www.linkedin.com/in/neeharavula/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:ravulaneeha@gmail.com">
-    <img src="https://img.shields.io/badge/email-717877?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://www.instagram.com/neehasroll/">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
 
-<br>
+<div>
+  <a href="https://neeharavula.github.io/" target="_blank"><img src="https://img.shields.io/badge/portfolio-20BEFF?style=for-the-badge&logo=portfolio&logoColor=white&color=73a773" /></a>
+  <a href="mailto:ravulaneeha@gmail.com" target="_blank"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=mail&logoColor=white&color=8a837b" /></a>
+  <a href="https://www.linkedin.com/in/neeharavula/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%2312100E.svg?&style=for-the-badge&logoColor=white&color=0e76a8" /></a>
+  <a href="https://www.instagram.com/neehasroll/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%2312100E.svg?&style=for-the-badge&logoColor=white&color=bf567c" /></a>
+</div>

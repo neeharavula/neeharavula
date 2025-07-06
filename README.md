@@ -28,7 +28,7 @@
 ### Let's Connect!
 
 <div>
-  <a href="https://neeharavula.github.io/" target="_blank"><img src="https://img.shields.io/badge/portfolio-20BEFF?style=for-the-badge&logo=portfolio&logoColor=white&color=73a773" /></a>
+  <a href="https://neeharavula.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/portfolio-20BEFF?style=for-the-badge&logo=portfolio&logoColor=white&color=73a773" /></a>
   <a href="mailto:ravulaneeha@gmail.com" target="_blank"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=mail&logoColor=white&color=8a837b" /></a>
   <a href="https://www.linkedin.com/in/neeharavula/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%2312100E.svg?&style=for-the-badge&logoColor=white&color=0e76a8" /></a>
   <a href="https://www.instagram.com/neehasroll/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%2312100E.svg?&style=for-the-badge&logoColor=white&color=bf567c" /></a>

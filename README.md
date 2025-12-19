@@ -2,7 +2,7 @@
 
 ### About Me
 
-I'm a developer and creative based in San Diego, CA, exploring the intersection of design and technology. Currently, I develop flight control and simulation software solutions in the aerospace/defense sector 🛩️
+I'm a developer and creative based in San Diego, CA, exploring the intersection of design and technology. Currently, I develop flight control and mission systems simulation software in the aerospace/defense sector 🛩️
 
 ### Languages and Tools
 
